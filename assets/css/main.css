@@ -3387,10 +3387,10 @@ input, select, textarea {
 		}
 
 		#banner .logo {
-			-moz-transition: opacity 2s ease, -moz-transform 1s ease;
-			-webkit-transition: opacity 2s ease, -webkit-transform 1s ease;
-			-ms-transition: opacity 2s ease, -ms-transform 1s ease;
-			transition: opacity 2s ease, transform 1s ease;
+			-moz-transition: opacity 0.8s ease, -moz-transform 0.5s ease;
+-webkit-transition: opacity 0.8s ease, -webkit-transform 0.5s ease;
+-ms-transition: opacity 0.8s ease, -ms-transform 0.5s ease;
+transition: opacity 0.8s ease, transform 0.5s ease;
 			-moz-transform: translateY(0);
 			-webkit-transform: translateY(0);
 			-ms-transform: translateY(0);
